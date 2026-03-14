@@ -14,7 +14,7 @@
 **Contribution:** Individual  
 **Submitted by:** Parth Goyal
 
-[Overview](#-overview) • [Business Objectives](#-business-objectives) • [Dataset](#-dataset) • [Methodology](#-methodology) • [Visualizations](#-visualizations) • [Insights](#-key-insights) • [Recommendations](#-recommendations)
+[Overview](#-overview) • [Business Objectives](#-business-objectives) • [Insights](#-key-insights) • [Business Insights](#-Business-Insights) • [Conclusions](#-Conclusion)
 
 </div>
 
